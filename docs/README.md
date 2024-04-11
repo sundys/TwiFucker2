@@ -1,6 +1,6 @@
 # TwiFucker2: Next features module for Twitter
 
-日本語 | [English](README_en.md)
+日本語 | [English](README_en.md) 
 
 [![Latest Release](https://img.shields.io/github/v/release/soralis0912/TwiFucker2?label=latest)](https://github.com/soralis0912/TwiFucker2/releases/latest)
 [![License](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/soralis0912/TwiFucker2/blob/master/LICENSE)
